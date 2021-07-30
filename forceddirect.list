@@ -1,5 +1,5 @@
 DOMAIN,onedrivecn-my.sharepoint.cn
-DOMAIN,thegeeks.click
-DOMAIN,theshow.click
+DOMAIN-SUFFIX,thegeeks.click
+DOMAIN-SUFFIX,theshow.click
 DOMAIN-SUFFIX,hdhome.org
 DOMAIN,www.mpyit.com
